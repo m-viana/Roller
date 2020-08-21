@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Roller</string>
+
+    <!--Activity main-->
+    <string name="tv_result">10</string>
+    <string name="button_play">GO!</string>
+    <string name="tv_title">Números já sorteados:</string>
+    <string name="tv_reset">RESET</string>
+    <string name="tv_description">Escolha quantos números serão sorteados!</string>
+    <string name="tv_obs">Começa do 1; Valor máximo: 20.</string>
+</resources>
